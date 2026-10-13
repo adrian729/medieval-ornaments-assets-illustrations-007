@@ -1,0 +1,62 @@
+{
+  "name": "@ranx729/medieval-ornaments-assets-illustrations-007",
+  "version": "0.1.0",
+  "description": "Approved medieval ornament resources: illustrations-007",
+  "type": "module",
+  "license": "SEE LICENSE IN LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrian729/medieval-ornaments-assets-illustrations-007.git"
+  },
+  "homepage": "https://adrian729.github.io/medieval-ornaments/",
+  "exports": {
+    "./package.json": "./package.json",
+    "./catalog.json": "./catalog.json",
+    "./resource-manifest.json": "./resource-manifest.json",
+    "./svg/*": "./svg/*",
+    "./png/*": "./png/*",
+    "./webp/*": "./webp/*"
+  },
+  "files": [
+    "png/128/branching-elk-antler.png",
+    "png/128/elephant.png",
+    "png/128/fox.png",
+    "png/256/branching-elk-antler.png",
+    "png/256/elephant.png",
+    "png/256/fox.png",
+    "png/512/branching-elk-antler.png",
+    "png/512/elephant.png",
+    "png/512/fox.png",
+    "png/768/branching-elk-antler.png",
+    "png/768/elephant.png",
+    "png/768/fox.png",
+    "png/branching-elk-antler.png",
+    "png/elephant.png",
+    "png/fox.png",
+    "svg/branching-elk-antler.svg",
+    "svg/elephant.svg",
+    "svg/fox.svg",
+    "webp/128/branching-elk-antler.webp",
+    "webp/128/elephant.webp",
+    "webp/128/fox.webp",
+    "webp/256/branching-elk-antler.webp",
+    "webp/256/elephant.webp",
+    "webp/256/fox.webp",
+    "webp/512/branching-elk-antler.webp",
+    "webp/512/elephant.webp",
+    "webp/512/fox.webp",
+    "webp/768/branching-elk-antler.webp",
+    "webp/768/elephant.webp",
+    "webp/768/fox.webp",
+    "webp/branching-elk-antler.webp",
+    "webp/elephant.webp",
+    "webp/fox.webp",
+    "catalog.json",
+    "resource-manifest.json",
+    "LICENSE"
+  ],
+  "sideEffects": false,
+  "publishConfig": {
+    "access": "public"
+  }
+}

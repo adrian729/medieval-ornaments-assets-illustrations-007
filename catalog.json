@@ -1,0 +1,345 @@
+[
+  {
+    "description": "A single branching elk antler, including its complete base and every tine. Part of the Gessner Historiae Animalium set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "antler",
+      "elk"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "cream"
+    ],
+    "composition": "single-figure",
+    "name": "branching-elk-antler",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "erara-gessner-elk-626455",
+    "png": "png/branching-elk-antler.png",
+    "webp": "webp/branching-elk-antler.webp",
+    "width": 1095,
+    "height": 1823,
+    "png_bytes": 2389683,
+    "webp_bytes": 1433468,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/branching-elk-antler.png",
+        "webp": "webp/128/branching-elk-antler.webp",
+        "width": 77,
+        "height": 128,
+        "png_bytes": 21909,
+        "webp_bytes": 13880
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/branching-elk-antler.png",
+        "webp": "webp/256/branching-elk-antler.webp",
+        "width": 154,
+        "height": 256,
+        "png_bytes": 76405,
+        "webp_bytes": 50188
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/branching-elk-antler.png",
+        "webp": "webp/512/branching-elk-antler.webp",
+        "width": 308,
+        "height": 512,
+        "png_bytes": 274341,
+        "webp_bytes": 193894
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/branching-elk-antler.png",
+        "webp": "webp/768/branching-elk-antler.webp",
+        "width": 461,
+        "height": 768,
+        "png_bytes": 561992,
+        "webp_bytes": 376414
+      }
+    ],
+    "svg": "svg/branching-elk-antler.svg",
+    "viewbox": [
+      0,
+      0,
+      1095,
+      1823
+    ],
+    "derivation": "ai-assisted-source-mask",
+    "provenance": {
+      "institution": "Zentralbibliothek Zürich",
+      "title": "Gessner, Historiae animalium: elk antler (De alce)",
+      "object_identifier": "5.1: a-5.3; image 626455; section De alce.",
+      "date": "1551–1587",
+      "record_url": "https://www.e-rara.ch/zuz/content/pageview/626455",
+      "image_rights": "Public Domain Mark; parent bibliographic record",
+      "rights_url": "https://www.e-rara.ch/zuz/content/titleinfo/637105",
+      "source_sha256": "f95957ac448ddb221bcae8e89f243e0b37f81cc736f28583df79f26369e7be6b",
+      "image_url": "https://www.e-rara.ch/i3f/v20/626455/full/full/0/default.jpg",
+      "method": "ai-assisted-source-mask",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Retained reviewed extraction; preserve its original proportions.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "gessner-historiae-animalium",
+        "name": "Gessner Historiae Animalium"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2929,
+      "height": 4524
+    },
+    "master_longest_dimension_cap": 1823,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "svg",
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "An elephant with its complete curled trunk, two tusks, large ear, four legs and tail. Part of the Gessner Historiae Animalium set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "elephant"
+    ],
+    "facing": "right",
+    "colors": [
+      "brown",
+      "cream"
+    ],
+    "composition": "single-figure",
+    "name": "elephant",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "erara-gessner-elephant-626863",
+    "png": "png/elephant.png",
+    "webp": "webp/elephant.webp",
+    "width": 2916,
+    "height": 2102,
+    "png_bytes": 7667026,
+    "webp_bytes": 4690078,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/elephant.png",
+        "webp": "webp/128/elephant.webp",
+        "width": 128,
+        "height": 92,
+        "png_bytes": 23654,
+        "webp_bytes": 15986
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/elephant.png",
+        "webp": "webp/256/elephant.webp",
+        "width": 256,
+        "height": 185,
+        "png_bytes": 82211,
+        "webp_bytes": 53340
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/elephant.png",
+        "webp": "webp/512/elephant.webp",
+        "width": 512,
+        "height": 369,
+        "png_bytes": 315202,
+        "webp_bytes": 200582
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/elephant.png",
+        "webp": "webp/768/elephant.webp",
+        "width": 768,
+        "height": 554,
+        "png_bytes": 718025,
+        "webp_bytes": 465724
+      }
+    ],
+    "svg": "svg/elephant.svg",
+    "viewbox": [
+      0,
+      0,
+      2916,
+      2102
+    ],
+    "derivation": "ai-assisted-source-mask",
+    "provenance": {
+      "institution": "Zentralbibliothek Zürich",
+      "title": "Gessner, Historiae animalium: De elephanto.",
+      "object_identifier": "5.1: a-5.3; image 626863; section De elephanto.",
+      "date": "1551–1587",
+      "record_url": "https://www.e-rara.ch/zuz/content/pageview/626863",
+      "image_rights": "Public Domain Mark; parent bibliographic record",
+      "rights_url": "https://www.e-rara.ch/zuz/content/titleinfo/637105",
+      "source_sha256": "54b1e2d83da5ba5fedd0bdb425d7009b0558349dc455500a3afa81972e131ea0",
+      "image_url": "https://www.e-rara.ch/i3f/v20/626863/full/full/0/default.jpg",
+      "method": "ai-assisted-source-mask",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Retained reviewed extraction; preserve its original proportions.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "gessner-historiae-animalium",
+        "name": "Gessner Historiae Animalium"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2929,
+      "height": 4524
+    },
+    "master_longest_dimension_cap": 2916,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "svg",
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A fox with its complete bushy tail, paws, pointed muzzle and ears. Part of the Gessner Historiae Animalium set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "fox"
+    ],
+    "facing": "right",
+    "colors": [
+      "brown",
+      "cream"
+    ],
+    "composition": "single-figure",
+    "name": "fox",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "erara-gessner-fox-627534",
+    "png": "png/fox.png",
+    "webp": "webp/fox.webp",
+    "width": 2497,
+    "height": 1475,
+    "png_bytes": 3073521,
+    "webp_bytes": 1669164,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/fox.png",
+        "webp": "webp/128/fox.webp",
+        "width": 128,
+        "height": 76,
+        "png_bytes": 13356,
+        "webp_bytes": 8710
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/fox.png",
+        "webp": "webp/256/fox.webp",
+        "width": 256,
+        "height": 151,
+        "png_bytes": 46258,
+        "webp_bytes": 29780
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/fox.png",
+        "webp": "webp/512/fox.webp",
+        "width": 512,
+        "height": 302,
+        "png_bytes": 179455,
+        "webp_bytes": 112710
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/fox.png",
+        "webp": "webp/768/fox.webp",
+        "width": 768,
+        "height": 454,
+        "png_bytes": 392196,
+        "webp_bytes": 262260
+      }
+    ],
+    "svg": "svg/fox.svg",
+    "viewbox": [
+      0,
+      0,
+      2497,
+      1475
+    ],
+    "derivation": "ai-assisted-source-mask",
+    "provenance": {
+      "institution": "Zentralbibliothek Zürich",
+      "title": "Gessner, Historiae animalium: De vulpe.",
+      "object_identifier": "5.1: a-5.3; image 627534; section De vulpe.",
+      "date": "1551–1587",
+      "record_url": "https://www.e-rara.ch/zuz/content/pageview/627534",
+      "image_rights": "Public Domain Mark; parent bibliographic record",
+      "rights_url": "https://www.e-rara.ch/zuz/content/titleinfo/637105",
+      "source_sha256": "bd742a3cc7d9655c2dd1efe83b5bc8ef24bb68ef7ad03eea3d19603138ceddcd",
+      "image_url": "https://www.e-rara.ch/i3f/v20/627534/full/full/0/default.jpg",
+      "method": "ai-assisted-source-mask",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Retained reviewed extraction; preserve its original proportions.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "gessner-historiae-animalium",
+        "name": "Gessner Historiae Animalium"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2929,
+      "height": 4523
+    },
+    "master_longest_dimension_cap": 2497,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "svg",
+      "webp",
+      "png"
+    ]
+  }
+]
